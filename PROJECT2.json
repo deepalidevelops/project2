@@ -1,0 +1,74 @@
+{
+    {"_id":"1";
+    "name" :"IIT-JEE",
+    "subject-name":"Maths",
+    "subject-id":"1",
+    "thumb":"iit jee.png",
+    "cost":500/"month",
+    "type":{
+        "Subject-topic":"differential calculus",
+        "subject-topic-type":"1"
+    },
+},
+
+{
+    {"_id":"1";
+"name" :"IIT-JEE",
+"subject-name":"Maths",
+"subject-id":"1",
+"thumb":"iit jee.png",
+"cost":500/"month",
+"type":{
+    "Subject-topic":"Coordinate Geometry",
+    "subject-topic-type":"2"
+},
+},
+"_id":"1";
+"name" :"IIT-JEE",
+"subject-name":"Maths",
+"subject-id":"1",
+"thumb":"iit jee.png",
+"cost":500/"month",
+"type":{
+    "Subject-topic":"Trigonometry",
+    "subject-topic-type":"3"
+},
+},
+{
+    {"_id":"2";
+"name" :"IIT-JEE",
+"subject-name":"Physics",
+"subject-id":"2",
+"thumb":"iit jee.png",
+"cost":500/"month",
+"type":{
+    "Subject-topic":"Light and its effects",
+    "subject-topic-type":"4"
+},
+},
+{
+    {"_id":"2";
+"name" :"IIT-JEE",
+"subject-name":"Physics",
+"subject-id":"2",
+"thumb":"iit jee.png",
+"cost":500/"month",
+"type":{
+    "Subject-topic":"Electricity",
+    "subject-topic-type":"5"
+},
+},
+{
+    {"_id":"progress";
+"name" :"IIT-JEE",
+"subject-name":"Progress",
+"subject-id":"3",
+"thumb":"iit jee.png",
+"cost":500/"month",
+"type":{
+    "Subject-topic":"progress",
+    "subject-topic-type":"6"
+},
+},
+
+

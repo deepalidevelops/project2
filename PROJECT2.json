@@ -1,0 +1,46 @@
+{
+    "name":"Deepali",
+    "Project 2":"Vidyalya",
+    
+}
+{
+    "id":1,
+    "category":"class",
+    "options":"class 6",
+}
+{
+    "id":2,
+    "category":"class",
+    "options":"class 7",
+}
+{
+    "id":3,
+    "category":"class",
+    "options":"class 8",
+}
+{
+    "id":4,
+    "category":"class",
+    "options":"class 9",
+}
+{
+    "id":5,
+    "category":"class",
+    "options":"class 10",
+}
+{
+    "id":6,
+    "category":"subjects",
+    "options":"maths",
+}
+{
+    "id":7,
+    "category":"subjects",
+    "options":"science",
+}
+{
+    "id":8,
+    "category":"progress",
+    "options":"grades"
+    
+}
